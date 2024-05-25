@@ -379,6 +379,7 @@ header.shadow {
 background-color: var(--main-color);
 color: var(--text-color);
 transform: scale(1.1);
+transition: 1s;
 }
 
 /* Portfolio */
